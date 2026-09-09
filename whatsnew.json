@@ -7,6 +7,32 @@
   },
   "releases": [
     {
+      "versionCode": 11,
+      "versionName": "1.0.9",
+      "date": "2026-09-09",
+      "highlights": [
+        {
+          "title": "Your downloads belong to your account",
+          "body": "Sign out and sign back in and your saved films are all there. If someone else signs in on the same phone, they see their own downloads and not yours.",
+          "shot": "v10-shelf.png"
+        },
+        {
+          "title": "Downloads now keep for 30 days",
+          "body": "A finished download keeps for 30 days, and opening MovieHouse starts those 30 days again. The shelf tells you how long is left, and a film you never come back for gives its space back to your phone.",
+          "shot": "v10-shelf.png"
+        },
+        {
+          "title": "Use mobile data when you want to",
+          "body": "Wi-Fi only is still the default so no data is spent by surprise. Now you can switch to mobile data right where you start a download, or on a download that is waiting for Wi-Fi.",
+          "shot": "v10-download.png"
+        },
+        {
+          "title": "Nothing you already saved was touched",
+          "body": "Everything that was on your phone before this update is still there, exactly as it was, and it plays the same offline."
+        }
+      ]
+    },
+    {
       "versionCode": 10,
       "versionName": "1.0.8",
       "date": "2026-09-09",
