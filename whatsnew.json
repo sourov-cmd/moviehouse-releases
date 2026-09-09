@@ -7,6 +7,30 @@
   },
   "releases": [
     {
+      "versionCode": 12,
+      "versionName": "1.1.0",
+      "date": "2026-09-09",
+      "highlights": [
+        {
+          "title": "Your download shelf follows your account",
+          "body": "Sign in on another phone and MovieHouse now shows what you have downloaded elsewhere, with the quality, the size and which phone holds it. A film cannot move from one phone to another, so each row offers to download it here as well, in one tap.",
+          "shot": "v10-shelf.png"
+        },
+        {
+          "title": "Deleting on one phone updates the other",
+          "body": "Delete a download and it stops being offered on your other phones. Downloads still keep for 30 days, and opening the app starts those 30 days again."
+        },
+        {
+          "title": "A new version no longer hides",
+          "body": "When an update is ready you are told once, you can say Later, and it waits for you in Settings until you want it. Nothing forces you out of what you were watching."
+        },
+        {
+          "title": "Nothing you already saved was touched",
+          "body": "Every download already on your phone stays exactly where it was and plays the same offline."
+        }
+      ]
+    },
+    {
       "versionCode": 11,
       "versionName": "1.0.9",
       "date": "2026-09-09",
