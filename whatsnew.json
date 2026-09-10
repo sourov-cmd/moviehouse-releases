@@ -7,6 +7,33 @@
  },
  "releases": [
   {
+   "versionCode": 16,
+   "versionName": "1.1.4",
+   "date": "2026-09-11",
+   "highlights": [
+    {
+     "title": "More films and series play, in more languages",
+     "body": "MovieHouse now reads one of its biggest libraries the way its own app does, so titles that had stopped playing come back, with every quality and dubbed version that library carries."
+    },
+    {
+     "title": "Swipe across the picture to move through it",
+     "body": "Drag left or right anywhere on the video to scrub, see exactly where you will land before you let go, and let go to jump there."
+    },
+    {
+     "title": "Volume moves as gently as you do",
+     "body": "A slow drag on the right side now changes the sound a little at a time instead of jumping several notches, and brightness on the left works the same way."
+    },
+    {
+     "title": "Fast-forward and skips you can see",
+     "body": "Hold to speed up and double tap to skip, with the arrows, the count and the 2x badge drawn on screen while it happens."
+    },
+    {
+     "title": "Every result shows its own artwork",
+     "body": "Titles that publish only a poster now fill the row and the header properly, so nothing looks half-loaded."
+    }
+   ]
+  },
+  {
    "versionCode": 15,
    "versionName": "1.1.3",
    "date": "2026-09-10",
