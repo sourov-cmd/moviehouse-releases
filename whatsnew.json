@@ -7,6 +7,21 @@
  },
  "releases": [
   {
+   "versionCode": 17,
+   "versionName": "1.1.5",
+   "date": "2026-09-11",
+   "highlights": [
+    {
+     "title": "More films and series open on the first tap",
+     "body": "Titles from one of our largest libraries now start straight away, in 1080p, 720p or 480p, whichever your connection allows."
+    },
+    {
+     "title": "Daily serials and long-running shows, episode by episode",
+     "body": "Pick any season and any episode, including the newest ones, and it plays like everything else."
+    }
+   ]
+  },
+  {
    "versionCode": 16,
    "versionName": "1.1.4",
    "date": "2026-09-11",
