@@ -7,6 +7,33 @@
   },
   "releases": [
     {
+      "versionCode": 21,
+      "versionName": "1.1.9",
+      "date": "2026-09-12",
+      "highlights": [
+        {
+          "title": "One library, one set of categories",
+          "body": "Every category now holds everything we can offer in it. Titles that were missing from a category are simply in it, next to the rest, and categories nobody else covers - Anime, Biography, Sport - are there too."
+        },
+        {
+          "title": "Play starts sooner, in the best picture available",
+          "body": "A tap measures every server for a title at once and starts on the best one it can reach, preferring adaptive HEVC first. Films that opened blurry now open sharp."
+        },
+        {
+          "title": "A title you have never watched starts at the beginning",
+          "body": "Your place in a film belongs to that film, so nothing opens part-way through by mistake."
+        },
+        {
+          "title": "Age ratings are honest",
+          "body": "A certificate is shown as the certificate it is, the 18+ section holds only what belongs there, and Family Mode still keeps back anything mature or unrated."
+        },
+        {
+          "title": "The main page loads the way it always did",
+          "body": "Your hero and your rows, with nothing waiting to load on top of them."
+        }
+      ]
+    },
+    {
       "versionCode": 20,
       "versionName": "1.1.8",
       "date": "2026-09-12",
