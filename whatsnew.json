@@ -7,6 +7,49 @@
   },
   "releases": [
     {
+      "versionCode": 22,
+      "versionName": "1.2.0",
+      "date": "2026-09-14",
+      "highlights": [
+        {
+          "title": "VIP servers open first",
+          "body": "Every title now leads with our VIP servers, so a tap starts playing instead of loading. If a VIP server is ever busy, the title keeps playing on the next server on its own."
+        },
+        {
+          "title": "Every episode of every season",
+          "body": "Series carry their full run, and episode two opens as readily as episode one."
+        },
+        {
+          "title": "Search finds your language",
+          "body": "Type a title and its Hindi, Bengali, Tamil and Telugu editions appear beside the original, without typing the tag."
+        },
+        {
+          "title": "Seventeen new national categories",
+          "body": "Bengali Cinema, Pakistani, Nepali, Sri Lankan, Turkish, Korean, Japanese and more, each filled with that country's own films and series."
+        },
+        {
+          "title": "The main page and Categories agree",
+          "body": "Every category you can open from Categories now has its own row on the main page too."
+        },
+        {
+          "title": "18+ is yours to allow",
+          "body": "Mature categories stay out of sight until you allow them on your account, and Family Mode keeps them away entirely."
+        },
+        {
+          "title": "More subtitles and more audio",
+          "body": "Titles arrive with the subtitle and audio tracks their sources carry, Bengali included."
+        },
+        {
+          "title": "Fuller detail pages",
+          "body": "Cast, crew, running time, certificate, stills and description on titles that had none before."
+        },
+        {
+          "title": "Back goes back",
+          "body": "Leaving a category returns you to Categories, not to the top of the app."
+        }
+      ]
+    },
+    {
       "versionCode": 21,
       "versionName": "1.1.9",
       "date": "2026-09-12",
