@@ -1,480 +1,535 @@
 {
-  "_comment": "MovieHouse — what changed, per release. The app reads the copy of this file in the public repo sourov-cmd/moviehouse-releases (raw.githubusercontent), because the app's own repo is private. COPY RULES (owner, 2026-09-08): this page is read by real users, so write like a product, not like a changelog to the developer — no internal words (admin, endpoint, fallback), no confessing old bugs, no Bengali (the whole app UI is English), one benefit per line, present tense. Update this file, mirror it to the public repo, and keep app_config.release_notes in the same voice.",
-  "baseUrl": "https://raw.githubusercontent.com/sourov-cmd/moviehouse-releases/main/shots",
-  "support": {
-    "telegram": "https://t.me/moviehousebdpro",
-    "facebook": "https://facebook.com/moviehousebdpro"
-  },
-  "releases": [
+ "_comment": "MovieHouse — what changed, per release. The app reads the copy of this file in the public repo sourov-cmd/moviehouse-releases (raw.githubusercontent), because the app's own repo is private. COPY RULES (owner, 2026-09-08): this page is read by real users, so write like a product, not like a changelog to the developer — no internal words (admin, endpoint, fallback), no confessing old bugs, no Bengali (the whole app UI is English), one benefit per line, present tense. Update this file, mirror it to the public repo, and keep app_config.release_notes in the same voice.",
+ "baseUrl": "https://raw.githubusercontent.com/sourov-cmd/moviehouse-releases/main/shots",
+ "support": {
+  "telegram": "https://t.me/moviehousebdpro",
+  "facebook": "https://facebook.com/moviehousebdpro"
+ },
+ "releases": [
+  {
+   "versionCode": 23,
+   "versionName": "1.2.1",
+   "date": "2026-09-15",
+   "highlights": [
     {
-      "versionCode": 22,
-      "versionName": "1.2.0",
-      "date": "2026-09-14",
-      "highlights": [
-        {
-          "title": "VIP servers open first",
-          "body": "Every title now leads with our VIP servers, so a tap starts playing instead of loading. If a VIP server is ever busy, the title keeps playing on the next server on its own."
-        },
-        {
-          "title": "Every episode of every season",
-          "body": "Series carry their full run, and episode two opens as readily as episode one."
-        },
-        {
-          "title": "Search finds your language",
-          "body": "Type a title and its Hindi, Bengali, Tamil and Telugu editions appear beside the original, without typing the tag."
-        },
-        {
-          "title": "Seventeen new national categories",
-          "body": "Bengali Cinema, Pakistani, Nepali, Sri Lankan, Turkish, Korean, Japanese and more, each filled with that country's own films and series."
-        },
-        {
-          "title": "The main page and Categories agree",
-          "body": "Every category you can open from Categories now has its own row on the main page too."
-        },
-        {
-          "title": "18+ is yours to allow",
-          "body": "Mature categories stay out of sight until you allow them on your account, and Family Mode keeps them away entirely."
-        },
-        {
-          "title": "More subtitles and more audio",
-          "body": "Titles arrive with the subtitle and audio tracks their sources carry, Bengali included."
-        },
-        {
-          "title": "Fuller detail pages",
-          "body": "Cast, crew, running time, certificate, stills and description on titles that had none before."
-        },
-        {
-          "title": "Back goes back",
-          "body": "Leaving a category returns you to Categories, not to the top of the app."
-        }
-      ]
+     "title": "A main page arranged like the library itself",
+     "body": "Eleven tabs across the top — Movies, Series, Anime, Indian, Bengali, Languages, Kids, Sports, Game — holding 134 categories, each one a real slice of the catalogue rather than a fixed list."
     },
     {
-      "versionCode": 21,
-      "versionName": "1.1.9",
-      "date": "2026-09-12",
-      "highlights": [
-        {
-          "title": "One library, one set of categories",
-          "body": "Every category now holds everything we can offer in it. Titles that were missing from a category are simply in it, next to the rest, and categories nobody else covers - Anime, Biography, Sport - are there too."
-        },
-        {
-          "title": "Play starts sooner, in the best picture available",
-          "body": "A tap measures every server for a title at once and starts on the best one it can reach, preferring adaptive HEVC first. Films that opened blurry now open sharp."
-        },
-        {
-          "title": "A title you have never watched starts at the beginning",
-          "body": "Your place in a film belongs to that film, so nothing opens part-way through by mistake."
-        },
-        {
-          "title": "Age ratings are honest",
-          "body": "A certificate is shown as the certificate it is, the 18+ section holds only what belongs there, and Family Mode still keeps back anything mature or unrated."
-        },
-        {
-          "title": "The main page loads the way it always did",
-          "body": "Your hero and your rows, with nothing waiting to load on top of them."
-        }
-      ]
+     "title": "Categories that do not stop",
+     "body": "Swipe a shelf and it keeps bringing titles until that category runs out. A category page that used to stall after a few rows now carries on by itself."
     },
     {
-      "versionCode": 20,
-      "versionName": "1.1.8",
-      "date": "2026-09-12",
-      "highlights": [
-        {
-          "title": "A much bigger library to browse, not just to search",
-          "body": "Our widest library now has its own shelves on the main page and its own sections under Categories, so thousands of films, series, anime and kids titles are there to scroll through instead of only being found by typing a name."
-        },
-        {
-          "title": "Series play to the end",
-          "body": "Every season and every episode a series really has is listed, including long-running shows and the newest episodes."
-        },
-        {
-          "title": "More audio languages",
-          "body": "Where a title exists in several languages, all of them are offered in the audio menu, original audio first."
-        },
-        {
-          "title": "Downloads keep their place",
-          "body": "A download of one of these titles stays the same download after you close the app, sign out or sign back in, and it picks up where it stopped instead of starting again."
-        },
-        {
-          "title": "18+ stays where it belongs",
-          "body": "Adult titles live behind their own entry, never on the main page, and Family Mode hides them along with anything that carries no age rating."
-        }
-      ]
+     "title": "Names under the posters",
+     "body": "Every card shows its title on one line, shortened with … when it is long, so nothing has to be recognised by its artwork alone."
     },
     {
-      "versionCode": 19,
-      "versionName": "1.1.7",
-      "date": "2026-09-12",
-      "highlights": [
-        {
-          "title": "Thousands more films and series play",
-          "body": "Titles from our widest library now open, stream and download like everything else in the app, in the quality they were released in and with their own audio tracks."
-        },
-        {
-          "title": "Fewer dead ends",
-          "body": "When a title needs a second look, the app can go back and find it again instead of stopping at an error."
-        },
-        {
-          "title": "A cleaner player",
-          "body": "Skip and speed indicators are drawn to match the rest of the app, so the picture stays the focus while you jump forward, jump back or hold for double speed."
-        }
-      ]
+     "title": "Clips",
+     "body": "Short films in a full-screen feed you flick through, playing by themselves and leaning towards the kind you actually watch."
     },
     {
-      "versionCode": 18,
-      "versionName": "1.1.6",
-      "date": "2026-09-11",
-      "highlights": [
-        {
-          "title": "A cleaner player",
-          "body": "Skip and speed indicators are drawn to match the rest of the app, so the picture stays the focus while you jump forward, jump back or hold for double speed."
-        },
-        {
-          "title": "Consistent look across the app",
-          "body": "Menus, filters and overlays now share one set of crisp controls on every phone and Android version."
-        }
-      ]
+     "title": "Music",
+     "body": "The music section as a page of its own, next to Clips."
     },
     {
-      "versionCode": 17,
-      "versionName": "1.1.5",
-      "date": "2026-09-11",
-      "highlights": [
-        {
-          "title": "More films and series open on the first tap",
-          "body": "Titles from one of our largest libraries now start straight away, in 1080p, 720p or 480p, whichever your connection allows."
-        },
-        {
-          "title": "Daily serials and long-running shows, episode by episode",
-          "body": "Pick any season and any episode, including the newest ones, and it plays like everything else."
-        }
-      ]
+     "title": "The language on the card is the language that plays",
+     "body": "A title marked [Bengali] opens in Bengali, and a plain title opens in its original audio, instead of whichever copy answered quickest. Every other audio track is still one tap away."
     },
     {
-      "versionCode": 16,
-      "versionName": "1.1.4",
-      "date": "2026-09-11",
-      "highlights": [
-        {
-          "title": "More films and series play, in more languages",
-          "body": "MovieHouse now reads one of its biggest libraries the way its own app does, so titles that had stopped playing come back, with every quality and dubbed version that library carries."
-        },
-        {
-          "title": "Swipe across the picture to move through it",
-          "body": "Drag left or right anywhere on the video to scrub, see exactly where you will land before you let go, and let go to jump there."
-        },
-        {
-          "title": "Volume moves as gently as you do",
-          "body": "A slow drag on the right side now changes the sound a little at a time instead of jumping several notches, and brightness on the left works the same way."
-        },
-        {
-          "title": "Fast-forward and skips you can see",
-          "body": "Hold to speed up and double tap to skip, with the arrows, the count and the 2x badge drawn on screen while it happens."
-        },
-        {
-          "title": "Every result shows its own artwork",
-          "body": "Titles that publish only a poster now fill the row and the header properly, so nothing looks half-loaded."
-        }
-      ]
+     "title": "Watch History plays again",
+     "body": "A title from the extra library resumes straight from Watch History, including after the app has been closed and reopened."
     },
     {
-      "versionCode": 15,
-      "versionName": "1.1.3",
-      "date": "2026-09-10",
-      "highlights": [
-        {
-          "title": "The home page keeps your place",
-          "body": "Open a title, come back, and you are exactly where you were — the same row, the same posters, as far along as you had scrolled."
-        }
-      ]
+     "title": "More Like This is filled in",
+     "body": "Titles that only the extra library carries now show genuinely related titles instead of an empty row."
     },
     {
-      "versionCode": 14,
-      "versionName": "1.1.2",
-      "date": "2026-09-10",
-      "highlights": [
-        {
-          "title": "The download notification takes you to your downloads",
-          "body": "Tap the progress notification while something is saving and MovieHouse opens on Downloads, with the film you were told about right there."
-        },
-        {
-          "title": "Choosing a download starts sooner",
-          "body": "The Download panel names the server it is reading and how many it has, and it moves on quickly from one that will not answer instead of leaving you with a spinner."
-        }
-      ]
+     "title": "Download sizes, and Coming Soon",
+     "body": "A download says how many GB or MB it will take, and a title the library does not hold yet is marked Coming Soon on the card instead of failing when it is tapped."
     },
     {
-      "versionCode": 13,
-      "versionName": "1.1.1",
-      "date": "2026-09-09",
-      "highlights": [
-        {
-          "title": "Signing in picks up where you left off",
-          "body": "Leave MovieHouse to fetch the code from your email and come back: you land on the same step, with the code you already have still valid. Nothing to start over, and no second email to wait for.",
-          "shot": "v6-password.png"
-        },
-        {
-          "title": "Every row on the home screen keeps going",
-          "body": "Swipe a category and it keeps loading — the whole catalogue behind it, not the first few posters. Top 10 stays ten, the way a Top 10 should."
-        },
-        {
-          "title": "Your account is what opens a film",
-          "body": "MovieHouse now checks your account before a stream starts, so nobody can use MovieHouse in your name or lean on it from outside the app. You will not notice it — films open exactly as before."
-        },
-        {
-          "title": "Nothing you already saved was touched",
-          "body": "Your downloads, your list and where you stopped watching are all exactly as you left them."
-        }
-      ]
+     "title": "Bengali, split properly",
+     "body": "Bengali Movies, Bengali Natok and Bangladeshi Cinema are separate categories, alongside Hindi, Tamil, Telugu, Punjabi, Malayalam, Kannada and English."
     },
     {
-      "versionCode": 12,
-      "versionName": "1.1.0",
-      "date": "2026-09-09",
-      "highlights": [
-        {
-          "title": "Your download shelf follows your account",
-          "body": "Sign in on another phone and MovieHouse now shows what you have downloaded elsewhere, with the quality, the size and which phone holds it. A film cannot move from one phone to another, so each row offers to download it here as well, in one tap.",
-          "shot": "v10-shelf.png"
-        },
-        {
-          "title": "Deleting on one phone updates the other",
-          "body": "Delete a download and it stops being offered on your other phones. Downloads still keep for 30 days, and opening the app starts those 30 days again."
-        },
-        {
-          "title": "A new version no longer hides",
-          "body": "When an update is ready you are told once, you can say Later, and it waits for you in Settings until you want it. Nothing forces you out of what you were watching."
-        },
-        {
-          "title": "Nothing you already saved was touched",
-          "body": "Every download already on your phone stays exactly where it was and plays the same offline."
-        }
-      ]
+     "title": "Subtitles that are really there",
+     "body": "Many titles used to offer a subtitle that showed nothing: the library answers with an empty 34-byte placeholder file, and it is now recognised and ignored. When their real subtitles do not come on the first ask, they are asked for again, and a sibling copy of the same film is asked too."
     },
     {
-      "versionCode": 11,
-      "versionName": "1.0.9",
-      "date": "2026-09-09",
-      "highlights": [
-        {
-          "title": "Your downloads belong to your account",
-          "body": "Sign out and sign back in and your saved films are all there. If someone else signs in on the same phone, they see their own downloads and not yours.",
-          "shot": "v10-shelf.png"
-        },
-        {
-          "title": "Downloads now keep for 30 days",
-          "body": "A finished download keeps for 30 days, and opening MovieHouse starts those 30 days again. The shelf tells you how long is left, and a film you never come back for gives its space back to your phone.",
-          "shot": "v10-shelf.png"
-        },
-        {
-          "title": "Use mobile data when you want to",
-          "body": "Wi-Fi only is still the default so no data is spent by surprise. Now you can switch to mobile data right where you start a download, or on a download that is waiting for Wi-Fi.",
-          "shot": "v10-download.png"
-        },
-        {
-          "title": "Nothing you already saved was touched",
-          "body": "Everything that was on your phone before this update is still there, exactly as it was, and it plays the same offline."
-        }
-      ]
-    },
-    {
-      "versionCode": 10,
-      "versionName": "1.0.8",
-      "date": "2026-09-09",
-      "highlights": [
-        {
-          "title": "Download any episode you like",
-          "body": "Every episode in a season now has its own Download button, so you take the ones you want and nothing else.",
-          "shot": "v10-download.png"
-        },
-        {
-          "title": "See the speed and the time left",
-          "body": "A download tells you how fast it is going and how long is left, updated every second while it runs.",
-          "shot": "v10-shelf.png"
-        },
-        {
-          "title": "Know your room before you start",
-          "body": "MovieHouse shows how much space is free on your phone, and says so plainly when a film will not fit.",
-          "shot": "v10-shelf.png"
-        },
-        {
-          "title": "The home page keeps your place",
-          "body": "Open a title, watch something, come back — the home page is exactly where you left it instead of jumping to the top."
-        },
-        {
-          "title": "Your downloads stay when you sign out",
-          "body": "Sign out and sign back in and everything you saved is still in Downloads, ready to play — nothing to fetch again.",
-          "shot": "v9-shelf.png"
-        },
-        {
-          "title": "Saved is saved for good",
-          "body": "A download never expires on its own. It stays on your phone until you choose to delete it, and one tap removes it."
-        },
-        {
-          "title": "Pick the audio language you want",
-          "body": "Choose the language before a download starts, and switch between the languages a title carries while you watch.",
-          "shot": "v9-audio.png"
-        },
-        {
-          "title": "Watch with nothing connected",
-          "body": "Anything you have saved plays straight from your phone, with the audio you picked, even in flight mode."
-        },
-        {
-          "title": "Pause, carry on, or delete",
-          "body": "Stop a download and pick it up later where it stopped, and Wi-Fi only waits by itself until Wi-Fi is back."
-        }
-      ]
-    },
-    {
-      "versionCode": 9,
-      "versionName": "1.0.7",
-      "date": "2026-09-09",
-      "highlights": [
-        {
-          "title": "Downloads, for real",
-          "body": "Press Download on any film or episode, choose the quality and the language you want, and MovieHouse saves it on your phone.",
-          "shot": "v9-download.png"
-        },
-        {
-          "title": "Watch with no connection at all",
-          "body": "Anything you have saved plays straight from your phone, with the audio you picked, even in flight mode.",
-          "shot": "v9-shelf.png"
-        },
-        {
-          "title": "Every language the film really has",
-          "body": "The Audio button now lists all of them in one place, including the ones that live on another server, and switches you over at the same second.",
-          "shot": "v9-audio.png"
-        },
-        {
-          "title": "You can see exactly where a download is",
-          "body": "Real percentage, real size, and Pause and Resume whenever you like."
-        },
-        {
-          "title": "Wi-Fi only means Wi-Fi only",
-          "body": "Downloads wait for Wi-Fi when you ask them to, and carry on by themselves the moment it is back."
-        }
-      ]
-    },
-    {
-      "versionCode": 8,
-      "versionName": "1.0.6",
-      "date": "2026-09-08",
-      "highlights": [
-        {
-          "title": "One phone stays one phone",
-          "body": "Reinstalling MovieHouse no longer eats a device slot, so a correct password never gets stopped by \"already on 3 devices\" again."
-        },
-        {
-          "title": "Out of device slots? Free one here",
-          "body": "If your plan's devices are all in use, the sign-in screen now lists them and lets you remove the one you no longer use."
-        },
-        {
-          "title": "One thing per step",
-          "body": "Choosing a password and typing the emailed code are separate steps now, and forgotten passwords ask for the code first."
-        },
-        {
-          "title": "Buttons wait for you",
-          "body": "Continue stays switched off until your password meets every rule, both fields match, and the code is all six digits."
-        },
-        {
-          "title": "Set your password without losing your place",
-          "body": "If you were already signed in, the password box now opens over the screen you were on instead of taking over the app."
-        }
-      ]
-    },
-    {
-      "versionCode": 7,
-      "versionName": "1.0.5",
-      "date": "2026-09-08",
-      "highlights": [
-        {
-          "title": "One screen for signing in and signing up",
-          "body": "Type your email and MovieHouse takes you to the right step by itself. New here? Choose a password and confirm your email once. Coming back? Your password is all it takes."
-        },
-        {
-          "title": "See your password while you type it",
-          "body": "Tap the eye to show or hide it, watch each rule tick off as you type, and see how strong your password is before you save it."
-        },
-        {
-          "title": "Forgot your password?",
-          "body": "Ask for a 6-digit code, then choose a new password right there and you are back in."
-        },
-        {
-          "title": "No more waiting for email codes",
-          "body": "Your password gets you in on any phone, so a code is only ever needed to create your account or to reset your password."
-        },
-        {
-          "title": "Video fills the whole screen",
-          "body": "Nothing sits above the picture any more on Android 12 and newer — the frame runs edge to edge."
-        }
-      ]
-    },
-    {
-      "versionCode": 6,
-      "versionName": "1.0.4",
-      "date": "2026-09-08",
-      "highlights": [
-        {
-          "title": "Sign in with a password",
-          "body": "Set a password once, and this phone takes you straight in — no waiting for an email code. Forgot it? A 6-digit code still gets you back, and you can set a new password right after.",
-          "shot": "v6-password.png"
-        },
-        {
-          "title": "Lock MovieHouse when you step away",
-          "body": "Lock the app from Settings, or ask for your password every time MovieHouse opens, so nobody else can open your account on your phone."
-        },
-        {
-          "title": "Fewer sign-in emails",
-          "body": "Asking for a new code now waits a little longer each time, so your inbox stays clean and the code you have is always the newest one."
-        }
-      ]
-    },
-    {
-      "versionCode": 5,
-      "versionName": "1.0.3",
-      "date": "2026-09-08",
-      "highlights": [
-        {
-          "title": "Playback speed, 0.25x to 2x",
-          "body": "Open Speed in the player to slow a scene down or move through it faster. Your choice carries over to the next title, and a press-and-hold skims ahead at any time.",
-          "shot": "v5-speed.png"
-        },
-        {
-          "title": "Choose your audio language",
-          "body": "The player now lists every audio track a title actually includes — with 5.1, 7.1 and Dolby marked — so you can see what a film offers before you pick.",
-          "shot": "v5-audio.png"
-        },
-        {
-          "title": "Every gesture, in five seconds",
-          "body": "The first time you start watching, a short on-screen guide shows you how to skip, speed up, set brightness and volume, and zoom the picture.",
-          "shot": "v5-coach.png"
-        },
-        {
-          "title": "Stronger protection for your account",
-          "body": "Signing out now clears your session everywhere in the app, and staying signed in means fewer verification emails."
-        },
-        {
-          "title": "Updates you can follow, and help when you need it",
-          "body": "Every release now arrives with the screens it changed, and our Telegram and Facebook sit in Settings whenever you want to reach the team."
-        }
-      ]
-    },
-    {
-      "versionCode": 4,
-      "versionName": "1.0.2",
-      "date": "2026-08-29",
-      "highlights": [
-        {
-          "title": "The picture fills your screen",
-          "body": "Titles that arrive with black bars around them are detected and cropped to your screen, with nothing cut off."
-        },
-        {
-          "title": "Nothing over the picture",
-          "body": "The strip that covered the top of the video on newer Android versions is gone."
-        }
-      ]
+     "title": "Watch History belongs to the account",
+     "body": "Signed in, what you watch is kept with your account, so another phone — or the same phone after a reinstall — carries on where you left off. Signed out, history stays on the phone only, exactly as before, and clearing it clears it everywhere."
     }
-  ]
+   ]
+  },
+  {
+   "versionCode": 22,
+   "versionName": "1.2.0",
+   "date": "2026-09-14",
+   "highlights": [
+    {
+     "title": "VIP servers open first",
+     "body": "Every title now leads with our VIP servers, so a tap starts playing instead of loading. If a VIP server is ever busy, the title keeps playing on the next server on its own."
+    },
+    {
+     "title": "Every episode of every season",
+     "body": "Series carry their full run, and episode two opens as readily as episode one."
+    },
+    {
+     "title": "Search finds your language",
+     "body": "Type a title and its Hindi, Bengali, Tamil and Telugu editions appear beside the original, without typing the tag."
+    },
+    {
+     "title": "Seventeen new national categories",
+     "body": "Bengali Cinema, Pakistani, Nepali, Sri Lankan, Turkish, Korean, Japanese and more, each filled with that country's own films and series."
+    },
+    {
+     "title": "The main page and Categories agree",
+     "body": "Every category you can open from Categories now has its own row on the main page too."
+    },
+    {
+     "title": "18+ is yours to allow",
+     "body": "Mature categories stay out of sight until you allow them on your account, and Family Mode keeps them away entirely."
+    },
+    {
+     "title": "More subtitles and more audio",
+     "body": "Titles arrive with the subtitle and audio tracks their sources carry, Bengali included."
+    },
+    {
+     "title": "Fuller detail pages",
+     "body": "Cast, crew, running time, certificate, stills and description on titles that had none before."
+    },
+    {
+     "title": "Back goes back",
+     "body": "Leaving a category returns you to Categories, not to the top of the app."
+    }
+   ]
+  },
+  {
+   "versionCode": 21,
+   "versionName": "1.1.9",
+   "date": "2026-09-12",
+   "highlights": [
+    {
+     "title": "One library, one set of categories",
+     "body": "Every category now holds everything we can offer in it. Titles that were missing from a category are simply in it, next to the rest, and categories nobody else covers - Anime, Biography, Sport - are there too."
+    },
+    {
+     "title": "Play starts sooner, in the best picture available",
+     "body": "A tap measures every server for a title at once and starts on the best one it can reach, preferring adaptive HEVC first. Films that opened blurry now open sharp."
+    },
+    {
+     "title": "A title you have never watched starts at the beginning",
+     "body": "Your place in a film belongs to that film, so nothing opens part-way through by mistake."
+    },
+    {
+     "title": "Age ratings are honest",
+     "body": "A certificate is shown as the certificate it is, the 18+ section holds only what belongs there, and Family Mode still keeps back anything mature or unrated."
+    },
+    {
+     "title": "The main page loads the way it always did",
+     "body": "Your hero and your rows, with nothing waiting to load on top of them."
+    }
+   ]
+  },
+  {
+   "versionCode": 20,
+   "versionName": "1.1.8",
+   "date": "2026-09-12",
+   "highlights": [
+    {
+     "title": "A much bigger library to browse, not just to search",
+     "body": "Our widest library now has its own shelves on the main page and its own sections under Categories, so thousands of films, series, anime and kids titles are there to scroll through instead of only being found by typing a name."
+    },
+    {
+     "title": "Series play to the end",
+     "body": "Every season and every episode a series really has is listed, including long-running shows and the newest episodes."
+    },
+    {
+     "title": "More audio languages",
+     "body": "Where a title exists in several languages, all of them are offered in the audio menu, original audio first."
+    },
+    {
+     "title": "Downloads keep their place",
+     "body": "A download of one of these titles stays the same download after you close the app, sign out or sign back in, and it picks up where it stopped instead of starting again."
+    },
+    {
+     "title": "18+ stays where it belongs",
+     "body": "Adult titles live behind their own entry, never on the main page, and Family Mode hides them along with anything that carries no age rating."
+    }
+   ]
+  },
+  {
+   "versionCode": 19,
+   "versionName": "1.1.7",
+   "date": "2026-09-12",
+   "highlights": [
+    {
+     "title": "Thousands more films and series play",
+     "body": "Titles from our widest library now open, stream and download like everything else in the app, in the quality they were released in and with their own audio tracks."
+    },
+    {
+     "title": "Fewer dead ends",
+     "body": "When a title needs a second look, the app can go back and find it again instead of stopping at an error."
+    },
+    {
+     "title": "A cleaner player",
+     "body": "Skip and speed indicators are drawn to match the rest of the app, so the picture stays the focus while you jump forward, jump back or hold for double speed."
+    }
+   ]
+  },
+  {
+   "versionCode": 18,
+   "versionName": "1.1.6",
+   "date": "2026-09-11",
+   "highlights": [
+    {
+     "title": "A cleaner player",
+     "body": "Skip and speed indicators are drawn to match the rest of the app, so the picture stays the focus while you jump forward, jump back or hold for double speed."
+    },
+    {
+     "title": "Consistent look across the app",
+     "body": "Menus, filters and overlays now share one set of crisp controls on every phone and Android version."
+    }
+   ]
+  },
+  {
+   "versionCode": 17,
+   "versionName": "1.1.5",
+   "date": "2026-09-11",
+   "highlights": [
+    {
+     "title": "More films and series open on the first tap",
+     "body": "Titles from one of our largest libraries now start straight away, in 1080p, 720p or 480p, whichever your connection allows."
+    },
+    {
+     "title": "Daily serials and long-running shows, episode by episode",
+     "body": "Pick any season and any episode, including the newest ones, and it plays like everything else."
+    }
+   ]
+  },
+  {
+   "versionCode": 16,
+   "versionName": "1.1.4",
+   "date": "2026-09-11",
+   "highlights": [
+    {
+     "title": "More films and series play, in more languages",
+     "body": "MovieHouse now reads one of its biggest libraries the way its own app does, so titles that had stopped playing come back, with every quality and dubbed version that library carries."
+    },
+    {
+     "title": "Swipe across the picture to move through it",
+     "body": "Drag left or right anywhere on the video to scrub, see exactly where you will land before you let go, and let go to jump there."
+    },
+    {
+     "title": "Volume moves as gently as you do",
+     "body": "A slow drag on the right side now changes the sound a little at a time instead of jumping several notches, and brightness on the left works the same way."
+    },
+    {
+     "title": "Fast-forward and skips you can see",
+     "body": "Hold to speed up and double tap to skip, with the arrows, the count and the 2x badge drawn on screen while it happens."
+    },
+    {
+     "title": "Every result shows its own artwork",
+     "body": "Titles that publish only a poster now fill the row and the header properly, so nothing looks half-loaded."
+    }
+   ]
+  },
+  {
+   "versionCode": 15,
+   "versionName": "1.1.3",
+   "date": "2026-09-10",
+   "highlights": [
+    {
+     "title": "The home page keeps your place",
+     "body": "Open a title, come back, and you are exactly where you were — the same row, the same posters, as far along as you had scrolled."
+    }
+   ]
+  },
+  {
+   "versionCode": 14,
+   "versionName": "1.1.2",
+   "date": "2026-09-10",
+   "highlights": [
+    {
+     "title": "The download notification takes you to your downloads",
+     "body": "Tap the progress notification while something is saving and MovieHouse opens on Downloads, with the film you were told about right there."
+    },
+    {
+     "title": "Choosing a download starts sooner",
+     "body": "The Download panel names the server it is reading and how many it has, and it moves on quickly from one that will not answer instead of leaving you with a spinner."
+    }
+   ]
+  },
+  {
+   "versionCode": 13,
+   "versionName": "1.1.1",
+   "date": "2026-09-09",
+   "highlights": [
+    {
+     "title": "Signing in picks up where you left off",
+     "body": "Leave MovieHouse to fetch the code from your email and come back: you land on the same step, with the code you already have still valid. Nothing to start over, and no second email to wait for.",
+     "shot": "v6-password.png"
+    },
+    {
+     "title": "Every row on the home screen keeps going",
+     "body": "Swipe a category and it keeps loading — the whole catalogue behind it, not the first few posters. Top 10 stays ten, the way a Top 10 should."
+    },
+    {
+     "title": "Your account is what opens a film",
+     "body": "MovieHouse now checks your account before a stream starts, so nobody can use MovieHouse in your name or lean on it from outside the app. You will not notice it — films open exactly as before."
+    },
+    {
+     "title": "Nothing you already saved was touched",
+     "body": "Your downloads, your list and where you stopped watching are all exactly as you left them."
+    }
+   ]
+  },
+  {
+   "versionCode": 12,
+   "versionName": "1.1.0",
+   "date": "2026-09-09",
+   "highlights": [
+    {
+     "title": "Your download shelf follows your account",
+     "body": "Sign in on another phone and MovieHouse now shows what you have downloaded elsewhere, with the quality, the size and which phone holds it. A film cannot move from one phone to another, so each row offers to download it here as well, in one tap.",
+     "shot": "v10-shelf.png"
+    },
+    {
+     "title": "Deleting on one phone updates the other",
+     "body": "Delete a download and it stops being offered on your other phones. Downloads still keep for 30 days, and opening the app starts those 30 days again."
+    },
+    {
+     "title": "A new version no longer hides",
+     "body": "When an update is ready you are told once, you can say Later, and it waits for you in Settings until you want it. Nothing forces you out of what you were watching."
+    },
+    {
+     "title": "Nothing you already saved was touched",
+     "body": "Every download already on your phone stays exactly where it was and plays the same offline."
+    }
+   ]
+  },
+  {
+   "versionCode": 11,
+   "versionName": "1.0.9",
+   "date": "2026-09-09",
+   "highlights": [
+    {
+     "title": "Your downloads belong to your account",
+     "body": "Sign out and sign back in and your saved films are all there. If someone else signs in on the same phone, they see their own downloads and not yours.",
+     "shot": "v10-shelf.png"
+    },
+    {
+     "title": "Downloads now keep for 30 days",
+     "body": "A finished download keeps for 30 days, and opening MovieHouse starts those 30 days again. The shelf tells you how long is left, and a film you never come back for gives its space back to your phone.",
+     "shot": "v10-shelf.png"
+    },
+    {
+     "title": "Use mobile data when you want to",
+     "body": "Wi-Fi only is still the default so no data is spent by surprise. Now you can switch to mobile data right where you start a download, or on a download that is waiting for Wi-Fi.",
+     "shot": "v10-download.png"
+    },
+    {
+     "title": "Nothing you already saved was touched",
+     "body": "Everything that was on your phone before this update is still there, exactly as it was, and it plays the same offline."
+    }
+   ]
+  },
+  {
+   "versionCode": 10,
+   "versionName": "1.0.8",
+   "date": "2026-09-09",
+   "highlights": [
+    {
+     "title": "Download any episode you like",
+     "body": "Every episode in a season now has its own Download button, so you take the ones you want and nothing else.",
+     "shot": "v10-download.png"
+    },
+    {
+     "title": "See the speed and the time left",
+     "body": "A download tells you how fast it is going and how long is left, updated every second while it runs.",
+     "shot": "v10-shelf.png"
+    },
+    {
+     "title": "Know your room before you start",
+     "body": "MovieHouse shows how much space is free on your phone, and says so plainly when a film will not fit.",
+     "shot": "v10-shelf.png"
+    },
+    {
+     "title": "The home page keeps your place",
+     "body": "Open a title, watch something, come back — the home page is exactly where you left it instead of jumping to the top."
+    },
+    {
+     "title": "Your downloads stay when you sign out",
+     "body": "Sign out and sign back in and everything you saved is still in Downloads, ready to play — nothing to fetch again.",
+     "shot": "v9-shelf.png"
+    },
+    {
+     "title": "Saved is saved for good",
+     "body": "A download never expires on its own. It stays on your phone until you choose to delete it, and one tap removes it."
+    },
+    {
+     "title": "Pick the audio language you want",
+     "body": "Choose the language before a download starts, and switch between the languages a title carries while you watch.",
+     "shot": "v9-audio.png"
+    },
+    {
+     "title": "Watch with nothing connected",
+     "body": "Anything you have saved plays straight from your phone, with the audio you picked, even in flight mode."
+    },
+    {
+     "title": "Pause, carry on, or delete",
+     "body": "Stop a download and pick it up later where it stopped, and Wi-Fi only waits by itself until Wi-Fi is back."
+    }
+   ]
+  },
+  {
+   "versionCode": 9,
+   "versionName": "1.0.7",
+   "date": "2026-09-09",
+   "highlights": [
+    {
+     "title": "Downloads, for real",
+     "body": "Press Download on any film or episode, choose the quality and the language you want, and MovieHouse saves it on your phone.",
+     "shot": "v9-download.png"
+    },
+    {
+     "title": "Watch with no connection at all",
+     "body": "Anything you have saved plays straight from your phone, with the audio you picked, even in flight mode.",
+     "shot": "v9-shelf.png"
+    },
+    {
+     "title": "Every language the film really has",
+     "body": "The Audio button now lists all of them in one place, including the ones that live on another server, and switches you over at the same second.",
+     "shot": "v9-audio.png"
+    },
+    {
+     "title": "You can see exactly where a download is",
+     "body": "Real percentage, real size, and Pause and Resume whenever you like."
+    },
+    {
+     "title": "Wi-Fi only means Wi-Fi only",
+     "body": "Downloads wait for Wi-Fi when you ask them to, and carry on by themselves the moment it is back."
+    }
+   ]
+  },
+  {
+   "versionCode": 8,
+   "versionName": "1.0.6",
+   "date": "2026-09-08",
+   "highlights": [
+    {
+     "title": "One phone stays one phone",
+     "body": "Reinstalling MovieHouse no longer eats a device slot, so a correct password never gets stopped by \"already on 3 devices\" again."
+    },
+    {
+     "title": "Out of device slots? Free one here",
+     "body": "If your plan's devices are all in use, the sign-in screen now lists them and lets you remove the one you no longer use."
+    },
+    {
+     "title": "One thing per step",
+     "body": "Choosing a password and typing the emailed code are separate steps now, and forgotten passwords ask for the code first."
+    },
+    {
+     "title": "Buttons wait for you",
+     "body": "Continue stays switched off until your password meets every rule, both fields match, and the code is all six digits."
+    },
+    {
+     "title": "Set your password without losing your place",
+     "body": "If you were already signed in, the password box now opens over the screen you were on instead of taking over the app."
+    }
+   ]
+  },
+  {
+   "versionCode": 7,
+   "versionName": "1.0.5",
+   "date": "2026-09-08",
+   "highlights": [
+    {
+     "title": "One screen for signing in and signing up",
+     "body": "Type your email and MovieHouse takes you to the right step by itself. New here? Choose a password and confirm your email once. Coming back? Your password is all it takes."
+    },
+    {
+     "title": "See your password while you type it",
+     "body": "Tap the eye to show or hide it, watch each rule tick off as you type, and see how strong your password is before you save it."
+    },
+    {
+     "title": "Forgot your password?",
+     "body": "Ask for a 6-digit code, then choose a new password right there and you are back in."
+    },
+    {
+     "title": "No more waiting for email codes",
+     "body": "Your password gets you in on any phone, so a code is only ever needed to create your account or to reset your password."
+    },
+    {
+     "title": "Video fills the whole screen",
+     "body": "Nothing sits above the picture any more on Android 12 and newer — the frame runs edge to edge."
+    }
+   ]
+  },
+  {
+   "versionCode": 6,
+   "versionName": "1.0.4",
+   "date": "2026-09-08",
+   "highlights": [
+    {
+     "title": "Sign in with a password",
+     "body": "Set a password once, and this phone takes you straight in — no waiting for an email code. Forgot it? A 6-digit code still gets you back, and you can set a new password right after.",
+     "shot": "v6-password.png"
+    },
+    {
+     "title": "Lock MovieHouse when you step away",
+     "body": "Lock the app from Settings, or ask for your password every time MovieHouse opens, so nobody else can open your account on your phone."
+    },
+    {
+     "title": "Fewer sign-in emails",
+     "body": "Asking for a new code now waits a little longer each time, so your inbox stays clean and the code you have is always the newest one."
+    }
+   ]
+  },
+  {
+   "versionCode": 5,
+   "versionName": "1.0.3",
+   "date": "2026-09-08",
+   "highlights": [
+    {
+     "title": "Playback speed, 0.25x to 2x",
+     "body": "Open Speed in the player to slow a scene down or move through it faster. Your choice carries over to the next title, and a press-and-hold skims ahead at any time.",
+     "shot": "v5-speed.png"
+    },
+    {
+     "title": "Choose your audio language",
+     "body": "The player now lists every audio track a title actually includes — with 5.1, 7.1 and Dolby marked — so you can see what a film offers before you pick.",
+     "shot": "v5-audio.png"
+    },
+    {
+     "title": "Every gesture, in five seconds",
+     "body": "The first time you start watching, a short on-screen guide shows you how to skip, speed up, set brightness and volume, and zoom the picture.",
+     "shot": "v5-coach.png"
+    },
+    {
+     "title": "Stronger protection for your account",
+     "body": "Signing out now clears your session everywhere in the app, and staying signed in means fewer verification emails."
+    },
+    {
+     "title": "Updates you can follow, and help when you need it",
+     "body": "Every release now arrives with the screens it changed, and our Telegram and Facebook sit in Settings whenever you want to reach the team."
+    }
+   ]
+  },
+  {
+   "versionCode": 4,
+   "versionName": "1.0.2",
+   "date": "2026-08-29",
+   "highlights": [
+    {
+     "title": "The picture fills your screen",
+     "body": "Titles that arrive with black bars around them are detected and cropped to your screen, with nothing cut off."
+    },
+    {
+     "title": "Nothing over the picture",
+     "body": "The strip that covered the top of the video on newer Android versions is gone."
+    }
+   ]
+  }
+ ]
 }
