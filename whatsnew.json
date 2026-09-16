@@ -7,6 +7,131 @@
  },
  "releases": [
   {
+   "versionCode": 26,
+   "versionName": "1.2.4",
+   "date": "2026-09-16",
+   "highlights": [
+    {
+     "title": "Posters that appear at once",
+     "body": "Artwork now arrives sized for your screen, so a page fills in a blink instead of loading in pieces — and it holds up on a slow connection."
+    },
+    {
+     "title": "Every collection opens in full",
+     "body": "Tap a collection's name and you get everything in it, page after page, with For You, Latest and Rating to sort by."
+    },
+    {
+     "title": "A wide, moving cover at the top",
+     "body": "Home, Movies and Series open on the library's own wide artwork, and the search, alerts and tabs above it stay readable over every picture."
+    },
+    {
+     "title": "Search that finishes your words",
+     "body": "Suggestions appear as you type, chips narrow a search to films, series, shorts, music, sports or learning, and results keep loading as you scroll."
+    },
+    {
+     "title": "Music search that finds music",
+     "body": "A song search now answers with songs — pages of them, by title or by artist."
+    },
+    {
+     "title": "Clips, the way a short feed should be",
+     "body": "One story at a time with its poster and its clock, a heart to react with, a back arrow of its own, and no bar covering the controls. Like a story and the next episode follows."
+    },
+    {
+     "title": "You come back where you left",
+     "body": "Leaving a title, a search or a clip returns you to the same place on the same row."
+    },
+    {
+     "title": "Easier on your battery",
+     "body": "Leave the app while something is playing and it pauses instead of running on, and pictures are streamed no larger than your screen can show."
+    },
+    {
+     "title": "Short serials that play",
+     "body": "The vertical short serials — the Hot Short TV collection and the rest — now open with their whole episode list, 40 or more episodes each, in up to 1080p, and they download like anything else."
+    },
+    {
+     "title": "Ask for what is not out yet",
+     "body": "A title that has not been released carries no Play or Download button any more. It carries the date it is expected and a Request button, and you can see how many people have asked for it."
+    },
+    {
+     "title": "Clips closer to home",
+     "body": "The short feed now starts with the serials the library is featuring, so what you swipe through includes Indian stories and not only foreign ones."
+    }
+   ]
+  },
+  {
+   "versionCode": 25,
+   "versionName": "1.2.3",
+   "date": "2026-09-16",
+   "highlights": [
+    {
+     "title": "Every category the library has",
+     "body": "Each tab now carries all of its own collections, read fresh as you open it — so a new collection appears the day it does, and each one pages as deep as it goes."
+    },
+    {
+     "title": "New tabs: Education, Cricket, Football, Game",
+     "body": "Four more sections join Home, FightZone and Midnight, each filled from the library's own listings."
+    },
+    {
+     "title": "Hindi, Tamil and Telugu of their own",
+     "body": "Language tabs now hold titles in that language, not a copy of Trending."
+    },
+    {
+     "title": "Music, rebuilt as a music app",
+     "body": "Charts, genre chips, quick picks with running times and its own search — and a song still opens in the player you already know, with its audio tracks and subtitles."
+    },
+    {
+     "title": "One card per title",
+     "body": "A film with five language editions is one card again, with the languages inside the player's Audio menu, and posters carry their language mark."
+    },
+    {
+     "title": "18+ stays where it belongs",
+     "body": "Midnight keeps its own collections, and adult titles no longer appear on ordinary shelves or in ordinary results."
+    },
+    {
+     "title": "Kinder to your battery",
+     "body": "A download that cannot continue now waits for you instead of retrying in the background."
+    }
+   ]
+  },
+  {
+   "versionCode": 24,
+   "versionName": "1.2.2",
+   "date": "2026-09-16",
+   "highlights": [
+    {
+     "title": "A calmer top of the screen",
+     "body": "The bar starts clear over the day's big title and settles into black as you scroll, with a search box and notifications right at the top of every tab."
+    },
+    {
+     "title": "Opens on the new home, every time",
+     "body": "The app now keeps its own copy of the home layout, so it starts straight on the new pages — even offline."
+    },
+    {
+     "title": "FightZone and Midnight",
+     "body": "Wrestling gets a tab of its own, and the 18+ section becomes Midnight with its named collections — UllU, Vivamax, and more — each one paging as deep as it goes."
+    },
+    {
+     "title": "Search that knows the whole library",
+     "body": "Results arrive from everywhere at once, split into All, Movies and Series, and titles that only ever lived in one corner of the catalogue now turn up too."
+    },
+    {
+     "title": "Filters on every category",
+     "body": "Open any category and refine it by genre, country, year, language and sort — the same choices the library itself offers."
+    },
+    {
+     "title": "Better first seconds of playback",
+     "body": "Films open at their real quality instead of easing up from blurry, audio menus name their languages properly, and subtitles reach many more titles — including Clips."
+    },
+    {
+     "title": "One title, one poster",
+     "body": "A film no longer appears once per language on the shelves, and each poster carries a small mark for its audio language."
+    },
+    {
+     "title": "Lighter on the phone",
+     "body": "Caches now clean up after themselves, and a Clear cache switch in Settings frees space whenever you want — downloads stay untouched."
+    }
+   ]
+  },
+  {
    "versionCode": 23,
    "versionName": "1.2.1",
    "date": "2026-09-15",
