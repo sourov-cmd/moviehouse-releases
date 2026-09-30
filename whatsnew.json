@@ -7,6 +7,927 @@
  },
  "releases": [
   {
+   "versionCode": 61,
+   "versionName": "1.2.39",
+   "date": "2026-09-30",
+   "highlights": [
+    {
+     "title": "Tap a title and it plays",
+     "body": "The film starts right on its page, with episode chips, the season list and the audio language all one tap away. Continue watching and Watch history open the same way, on the episode and second you left."
+    },
+    {
+     "title": "A floating window",
+     "body": "Press Back or Home and the film keeps playing in a small window you can move. Tap it to return to the same second."
+    },
+    {
+     "title": "Choose your picture quality",
+     "body": "Every quality a title really has, each with its size, and the one you pick stays sharp."
+    },
+    {
+     "title": "Download films and series",
+     "body": "Pick the quality and language, see the size before you start, and watch offline in the small player or full screen."
+    },
+    {
+     "title": "Download subtitles for any title",
+     "body": "In the player, open Subtitles, then Download subtitle. Pick a language, tap a file, and it switches on and stays with the title."
+    },
+    {
+     "title": "Clips made for swiping",
+     "body": "Swipe up for the next video, and starting a clip pauses anything else that was playing."
+    },
+    {
+     "title": "Cleaner gesture controls",
+     "body": "Volume, brightness, double tap and 2x speed show a smooth white look, with a gentle tap at the ends."
+    },
+    {
+     "title": "My List, alerts and smarter search",
+     "body": "Keep your picks in My List, hear about new episodes, and search that remembers what you asked."
+    },
+    {
+     "title": "Keep watching, hands free",
+     "body": "Series play on with an Up next countdown, and sound keeps going in the background when you want it."
+    },
+    {
+     "title": "More in My Space",
+     "body": "Continue watching, Share MovieHouse, and help on Telegram and Facebook. Sign out asks first."
+    }
+   ]
+  },
+  {
+   "versionCode": 60,
+   "versionName": "1.2.38",
+   "date": "2026-09-30",
+   "highlights": [
+    {
+     "title": "Download subtitles for any title",
+     "body": "In the player, open Subtitles, then Download subtitle. Pick a language, tap a file, and it switches on and stays with the title."
+    },
+    {
+     "title": "Cleaner gesture controls",
+     "body": "Volume, brightness, double tap and 2x speed now show a smooth white look, with a gentle tap at the ends."
+    },
+    {
+     "title": "Swipe up in Clips",
+     "body": "A quick hint shows how to swipe up for the next video the first time you open Clips."
+    },
+    {
+     "title": "More in My Space",
+     "body": "Continue watching, counts for your library, Share MovieHouse, and help on Telegram and Facebook. Sign out now asks first."
+    },
+    {
+     "title": "One sound at a time",
+     "body": "Starting a clip pauses the video that was playing, and your subtitle size now applies everywhere."
+    }
+   ]
+  },
+  {
+   "versionCode": 59,
+   "versionName": "1.2.37",
+   "date": "2026-09-30",
+   "highlights": [
+    {
+     "title": "Subtitles saved with your downloads",
+     "body": "Pick one or more subtitle languages in the Download sheet. They are saved with the video and play without internet."
+    },
+    {
+     "title": "A fresh My Space",
+     "body": "Your account, My List, downloads and the space they use, all in one card, with neatly grouped options."
+    }
+   ]
+  },
+  {
+   "versionCode": 58,
+   "versionName": "1.2.36",
+   "date": "2026-09-30",
+   "highlights": [
+    {
+     "title": "My List that keeps your picks",
+     "body": "Tap Add to list on any movie or series and find it again under My List, on every phone you sign in to."
+    },
+    {
+     "title": "A smarter search box",
+     "body": "The search box suggests what people are watching right now. Tap Search to look it up, or type your own."
+    },
+    {
+     "title": "Search remembers what you asked",
+     "body": "Recent searches are kept the moment you press Search, fold neatly, and clear only after you confirm."
+    },
+    {
+     "title": "Popular picks in your notifications",
+     "body": "See today's hot movies and series in one notification and open any of them with a tap. Swipe it away any time."
+    },
+    {
+     "title": "Keep listening in the background",
+     "body": "Turn on Background play in Settings to keep the sound going with the screen off, with play, pause, skip 10 seconds, next episode and a progress bar in your notifications."
+    },
+    {
+     "title": "New episode alerts",
+     "body": "Series in My List tell you when a new episode arrives."
+    },
+    {
+     "title": "Settings that do what they say",
+     "body": "Wi-Fi only streaming, Data saver, Streaming quality and Delete finished downloads now work everywhere, including the floating window."
+    },
+    {
+     "title": "Up next, counted down",
+     "body": "In the last seconds of an episode a card in the corner shows what plays next, even the next season. Tap Play to start it now or close the card to stay."
+    },
+    {
+     "title": "Series play on by themselves",
+     "body": "The next episode now starts by itself on the small player and in the floating window too, not only in full screen."
+    },
+    {
+     "title": "Whole posters in search",
+     "body": "Search results and Top Searches show the full poster, nothing cut off."
+    },
+    {
+     "title": "Fit, Fill or Stretch",
+     "body": "The picture button switches between the whole picture, a screen-filling crop and a full stretch, with a small label that says which one is on."
+    }
+   ]
+  },
+  {
+   "versionCode": 57,
+   "versionName": "1.2.35",
+   "date": "2026-09-29",
+   "highlights": [
+    {
+     "title": "Your language stays with you",
+     "body": "Pick a different audio in full screen and it is still the one playing when you go back to the small screen or the floating window."
+    },
+    {
+     "title": "Skipping in the window is smoother",
+     "body": "Jumping back 10 seconds in the floating window plays at once, and a small spinner shows whenever the film is loading."
+    },
+    {
+     "title": "Settings that let you see the film",
+     "body": "Audio, Quality, Subtitles and Speed now open on a see-through panel, so the picture stays in view while you choose."
+    },
+    {
+     "title": "Share a title with a real link",
+     "body": "Share sends a link to the title. Friends with MovieHouse land right on it; everyone else gets a page to download the app."
+    },
+    {
+     "title": "Home works even offline",
+     "body": "With no internet, Home still shows the shelves you last saw, with a quick Retry. Your downloads are one tap away."
+    },
+    {
+     "title": "Downloads play in the small screen and the window",
+     "body": "A downloaded film opens on its own page with the small player, goes full screen in a tap and keeps playing in the floating window."
+    },
+    {
+     "title": "Posters on your downloads, offline too",
+     "body": "Every download keeps its own poster on your phone, so your list is easy to recognise with no internet."
+    },
+    {
+     "title": "A friendlier first-time guide",
+     "body": "The gesture guide now appears on the small player, where every film starts, and you can skip it any time."
+    },
+    {
+     "title": "Storage checked before you download",
+     "body": "If your phone is short on space, MovieHouse tells you before the download starts instead of failing halfway."
+    }
+   ]
+  },
+  {
+   "versionCode": 56,
+   "versionName": "1.2.34",
+   "date": "2026-09-29",
+   "highlights": [
+    {
+     "title": "The film shrinks straight into its window",
+     "body": "Going back from a film now shrinks the picture you are watching into the floating window, with no blank or dark screen on the way."
+    },
+    {
+     "title": "MovieHouse stays fully yours underneath",
+     "body": "While the window floats, every page, tab and poster behind it scrolls and opens as usual, and the window stays with the picture wherever you drag it."
+    },
+    {
+     "title": "A dropped signal no longer closes the window",
+     "body": "If your connection blinks while the window floats, the film waits, reconnects on its own and plays on from the same moment."
+    },
+    {
+     "title": "Every window button works, everywhere",
+     "body": "Play, pause, the 10-second skips, full screen and close answer at once, inside the app and outside it."
+    },
+    {
+     "title": "Back to the same second",
+     "body": "Opening the window full size returns you to the same page and the same moment, with nothing to load again."
+    },
+    {
+     "title": "Search keeps out of the way",
+     "body": "The keyboard tucks away as soon as you open a result, so the floating window sits where it belongs."
+    }
+   ]
+  },
+  {
+   "versionCode": 55,
+   "versionName": "1.2.33",
+   "date": "2026-09-28",
+   "highlights": [
+    {
+     "title": "The floating window stays a window",
+     "body": "The small window keeps to its own corner of the screen, so the page behind it scrolls and opens exactly as it always does while your film plays on."
+    },
+    {
+     "title": "Its buttons sit on the picture",
+     "body": "Play, pause and the two 10-second skips are drawn on the film itself, wherever the window is and whatever shape the film is."
+    },
+    {
+     "title": "Home always floats the film",
+     "body": "Leaving MovieHouse with a film running puts it in the floating window every time, however you got there."
+    }
+   ]
+  },
+  {
+   "versionCode": 54,
+   "versionName": "1.2.32",
+   "date": "2026-09-28",
+   "highlights": [
+    {
+     "title": "The floating window's buttons answer everywhere",
+     "body": "Pause, play and the two 10-second skips on the floating window now work wherever you are — on your home screen, in another app, or with MovieHouse open behind the window."
+    },
+    {
+     "title": "The window shows what the film is doing",
+     "body": "The middle button turns into play the moment you pause the film, and back into pause when it runs again."
+    }
+   ]
+  },
+  {
+   "versionCode": 53,
+   "versionName": "1.2.31",
+   "date": "2026-09-28",
+   "highlights": [
+    {
+     "title": "One floating window, inside the app and outside it",
+     "body": "The small window that appears when you leave a film is now Android's own floating window wherever you are — the same size, the same controls, draggable anywhere — and MovieHouse stays open behind it, so you can keep browsing while the film plays."
+    },
+    {
+     "title": "Closing the window hands the page back",
+     "body": "Close the floating window and the title you were on picks up its own film from the second you left it."
+    },
+    {
+     "title": "Every copy now shows the size it really is",
+     "body": "Quality lists carry every size a title offers, from every kind of server, so nothing is hidden behind a single entry any more."
+    },
+    {
+     "title": "The size you are watching is defended",
+     "body": "If a server starts to struggle, MovieHouse looks for the same picture size somewhere else first and only steps down when no copy anywhere still has it."
+    },
+    {
+     "title": "Change one thing and only that changes",
+     "body": "Picking another audio language or another size keeps the second you are on and everything else you chose."
+    },
+    {
+     "title": "Moving between screens loads nothing",
+     "body": "Full screen, the small player and the floating window are one playback: every move between them keeps playing without a pause."
+    }
+   ]
+  },
+  {
+   "versionCode": 52,
+   "versionName": "1.2.30",
+   "date": "2026-09-27",
+   "highlights": [
+    {
+     "title": "The quality list is what the film really has",
+     "body": "Every size in the Quality list is read from the stream itself, so there are no odd numbers like 816P any more, nothing is offered that cannot actually play, and the size on the control bar and the size in the list are always the same one."
+    },
+    {
+     "title": "Audio is a language, not a server",
+     "body": "The Audio list now names languages and nothing else, the language you are hearing is marked, and picking one takes the best copy of it that MovieHouse can reach at that moment."
+    },
+    {
+     "title": "The size you chose is defended",
+     "body": "If the copy you are watching starts to struggle, MovieHouse looks for the same picture size elsewhere first and only makes the picture smaller when no copy anywhere still has it."
+    },
+    {
+     "title": "Nothing reloads on the way between screens",
+     "body": "Full screen, the small player, the floating window inside the app and the one over your home screen are all the same playback now. Moving between them keeps the second you are on, and the audio language you chose comes back with you."
+    },
+    {
+     "title": "A title you tap always starts",
+     "body": "Opening another film while the small floating window is playing now closes the window and starts what you asked for."
+    },
+    {
+     "title": "One row per server",
+     "body": "The server list no longer repeats the same copy twice, and it says plainly which one is playing."
+    }
+   ]
+  },
+  {
+   "versionCode": 51,
+   "versionName": "1.2.29",
+   "date": "2026-09-27",
+   "highlights": [
+    {
+     "title": "Full quality, and it stays there",
+     "body": "Films and episodes now open at the sharpest picture the library has and hold it, instead of settling for a soft one. MovieHouse asks the video service for several parts of a film at the same time, which is what makes the difference."
+    },
+    {
+     "title": "No more stopping in the middle",
+     "body": "Playback keeps a deep reserve of video ahead of you, so a dip in your connection no longer turns into a pause every minute. If a copy still struggles, MovieHouse quietly moves to another copy of the same film from the exact second you had reached."
+    },
+    {
+     "title": "The home page fills even on a slow connection",
+     "body": "Shelves that used to come up empty when the network hesitated now keep asking until they have their posters, so the page fills instead of staying dark."
+    },
+    {
+     "title": "Surround sound where the film has it",
+     "body": "When a film is published with a 5.1 soundtrack, MovieHouse can now fall back to that copy, so you hear the full mix rather than plain stereo."
+    }
+   ]
+  },
+  {
+   "versionCode": 50,
+   "versionName": "1.2.28",
+   "date": "2026-09-27",
+   "highlights": [
+    {
+     "title": "Films open in seconds",
+     "body": "Tapping play now shows the picture straight away instead of waiting while the app looks around for a server. On a slow line a film that used to take about eleven seconds to appear now starts in about four."
+    },
+    {
+     "title": "Smooth first, sharp right after",
+     "body": "Playback begins on a copy your connection can carry and climbs to the sharpest one once it knows your speed, so a film keeps running instead of freezing every few seconds."
+    },
+    {
+     "title": "The language you picked is the language you get",
+     "body": "Choosing Hindi, Tamil, Telugu or the original audio now decides which copy is played, so a film no longer opens in another dub because a different server answered first."
+    },
+    {
+     "title": "One floating window",
+     "body": "The small window inside the app is now exactly the window Android gives you outside the app — same size, same shape — so a film looks the same wherever you keep watching it."
+    }
+   ]
+  },
+  {
+   "versionCode": 49,
+   "versionName": "1.2.27",
+   "date": "2026-09-26",
+   "highlights": [
+    {
+     "title": "Your language stays your language",
+     "body": "Pick Hindi, Tamil, Telugu or the original audio and the film stays there. If one copy will not play, the next copy of the same language takes over, and the title tells you plainly when a language has nothing left to try."
+    },
+    {
+     "title": "Films start sooner",
+     "body": "A title is now looked up once and the answer is shared by the page, the small player and full screen, so the picture arrives noticeably faster on a slow line."
+    },
+    {
+     "title": "The sharp stream is given time to start",
+     "body": "The adaptive stream is no longer dropped while it is still filling, so more films open on the sharpest copy and stay there."
+    },
+    {
+     "title": "A cleaner quality list",
+     "body": "The quality list shows 480P, 720P and 1080P as the film really carries them, with one of them marked as the one you are watching."
+    }
+   ]
+  },
+  {
+   "versionCode": 48,
+   "versionName": "1.2.26",
+   "date": "2026-09-25",
+   "highlights": [
+    {
+     "title": "Pick your picture quality",
+     "body": "Tap the quality button while a film is playing and choose 480P, 720P or 1080P. The film keeps playing from the same second, in the same language, with your subtitles and your speed untouched."
+    },
+    {
+     "title": "Films open faster",
+     "body": "Titles now open on the library's own adaptive stream, so the picture arrives in a moment and climbs to the best quality your line can carry."
+    },
+    {
+     "title": "Back leaves you on the title, still watching",
+     "body": "Coming out of full screen puts the film straight back into the player on the title page, playing on. Leaving by the phone's Home button still floats it over everything else."
+    },
+    {
+     "title": "One floating window",
+     "body": "The window inside the app is the same shape and carries the same three controls as the one over your home screen, and tapping it opens the film exactly where you left it."
+    },
+    {
+     "title": "The main page keeps your place",
+     "body": "Open a title from any shelf and come back: the page is where you were, and every shelf is still scrolled to the poster you had reached."
+    },
+    {
+     "title": "Nothing plays behind you",
+     "body": "Leave a title before the picture appears and it stops there, with no sound following you out of the page."
+    }
+   ]
+  },
+  {
+   "versionCode": 47,
+   "versionName": "1.2.25",
+   "date": "2026-09-24",
+   "highlights": [
+    {
+     "title": "Films download now",
+     "body": "Tapping Download on a film starts it and keeps it going to the end. Films are served from a host that had been refusing the app's requests, and it no longer does."
+    },
+    {
+     "title": "Sizes you can trust",
+     "body": "Every row now shows the size the library itself publishes for that exact quality and audio, so what the sheet says is what the library says."
+    },
+    {
+     "title": "A size on every quality",
+     "body": "720P and 1080P rows carry their size as well, not only their length."
+    },
+    {
+     "title": "Only the qualities that exist",
+     "body": "The quality tabs are the ones the library really holds for that title, so a tab can no longer open onto an empty row."
+    }
+   ]
+  },
+  {
+   "versionCode": 46,
+   "versionName": "1.2.24",
+   "date": "2026-09-24",
+   "highlights": [
+    {
+     "title": "Downloads finish",
+     "body": "A download now runs straight through to the end instead of stopping with a server message: the app no longer sends the one request header this video host refuses."
+    },
+    {
+     "title": "Every quality is really there",
+     "body": "Each episode and each film is offered at every quality the library holds for it, from all of its sources at once, so a row no longer says a quality is unavailable when it is."
+    },
+    {
+     "title": "Sizes and lengths, straight away",
+     "body": "Rows fill in with the real size and length — 249.8MB | 57:22 — and a row never sits on “checking size…”: if a quality carries no published size, its length is shown and nothing is invented."
+    },
+    {
+     "title": "Films download too",
+     "body": "A film whose first source answers with nothing is now offered from the others, with its real size, instead of showing an empty sheet."
+    }
+   ]
+  },
+  {
+   "versionCode": 45,
+   "versionName": "1.2.23",
+   "date": "2026-09-23",
+   "highlights": [
+    {
+     "title": "Every quality a series really has",
+     "body": "The Download sheet now offers each episode at every resolution the library publishes for it — 480p included — instead of only the one it happened to hand over first."
+    },
+    {
+     "title": "How big it is, on every row",
+     "body": "Each episode shows its real size and its length, like 149.3MB | 57:22, and the numbers stay put when you switch quality or audio."
+    },
+    {
+     "title": "A season dropdown",
+     "body": "A series with several seasons gets a Season picker beside the language, and its rows are numbered S01 E01 so you always know what you are saving."
+    },
+    {
+     "title": "Nothing covers the picture",
+     "body": "The audio and season sheets on the watch page now open under the video like the Download sheet, and scroll inside themselves."
+    },
+    {
+     "title": "Downloads keep their artwork offline",
+     "body": "A saved film keeps its poster on the phone, so the Downloads shelf looks right with no network — older downloads pick theirs up too."
+    }
+   ]
+  },
+  {
+   "versionCode": 44,
+   "versionName": "1.2.22",
+   "date": "2026-09-22",
+   "highlights": [
+    {
+     "title": "Downloads that really start",
+     "body": "Tap Download and the film starts saving straight away, with a progress notification while it works and one line when it is done."
+    },
+    {
+     "title": "A whole season to choose from",
+     "body": "A series now opens on its own episode list at every quality the library carries, so you can pick the episodes you want and see what each one weighs."
+    },
+    {
+     "title": "The language beside the title follows your audio",
+     "body": "Switch the audio and the title says that language, on the page, in the Download sheet and on the file you saved."
+    },
+    {
+     "title": "The Download sheet sits under the picture",
+     "body": "It opens right below the video and never covers it, and a long episode list scrolls inside it. The quality tabs read cleanly, 1080P included."
+    },
+    {
+     "title": "What you pick is what you get",
+     "body": "The quality and the language you tap are the ones saved, and the Downloads shelf states both."
+    }
+   ]
+  },
+  {
+   "versionCode": 43,
+   "versionName": "1.2.21",
+   "date": "2026-09-22",
+   "highlights": [
+    {
+     "title": "The picture stays when you come back from full screen",
+     "body": "Leaving the full screen player used to hand the small player a blank picture while the sound carried on. The film stays on screen now."
+    },
+    {
+     "title": "Changing the audio on the small player really changes it",
+     "body": "Picking a language on the small player now plays that language, the same as it already did on the full screen."
+    },
+    {
+     "title": "The Audio list appears on the full screen too",
+     "body": "Titles that offer several languages now show the Audio button on the full screen player, with every language the library carries."
+    }
+   ]
+  },
+  {
+   "versionCode": 42,
+   "versionName": "1.2.20",
+   "date": "2026-09-21",
+   "highlights": [
+    {
+     "title": "The download list now carries every language",
+     "body": "Titles opened from the film shelves were asking for their servers with the wrong number, so the list arrived empty and only a couple of servers were offered. They now ask with the right one, and the full language list appears."
+    }
+   ]
+  },
+  {
+   "versionCode": 41,
+   "versionName": "1.2.19",
+   "date": "2026-09-21",
+   "highlights": [
+    {
+     "title": "Every language a film has, in the download list",
+     "body": "The download list now gathers the servers from every place that knows them, so a title with ten languages is not shown as two."
+    },
+    {
+     "title": "The download moves on when a server will not answer",
+     "body": "If the server you are on cannot be read, the next one is tried by itself, so a download no longer depends on the first server alone."
+    }
+   ]
+  },
+  {
+   "versionCode": 40,
+   "versionName": "1.2.18",
+   "date": "2026-09-21",
+   "highlights": [
+    {
+     "title": "Every language the film has is offered",
+     "body": "The download list now shows all of a film's servers, so a Hindi or Tamil soundtrack is never left out of the choices."
+    },
+    {
+     "title": "The download starts on the language you opened",
+     "body": "Opening a film in a language now starts the download from that language's own server, instead of whichever one came first."
+    }
+   ]
+  },
+  {
+   "versionCode": 39,
+   "versionName": "1.2.17",
+   "date": "2026-09-21",
+   "highlights": [
+    {
+     "title": "The picture at the top keeps its whole frame",
+     "body": "A square poster is shown in a square space, so the artwork you see is the whole artwork that was made."
+    },
+    {
+     "title": "The next poster shows beside the one you are on",
+     "body": "The moving row at the top of ShortTV now shows the edge of the next picture on each side, so it is clear there is more and a swipe has somewhere to go."
+    }
+   ]
+  },
+  {
+   "versionCode": 38,
+   "versionName": "1.2.16",
+   "date": "2026-09-21",
+   "highlights": [
+    {
+     "title": "The band above the picture belongs to the picture",
+     "body": "The strip behind the clock and the tabs now takes its colour from the poster it sits above, so the top of the page reads as one picture instead of showing the same image twice."
+    },
+    {
+     "title": "Mini TV in Bengali plays in Bengali",
+     "body": "Every Mini TV language row now carries titles in that language only, and the row keeps itself full as you scroll."
+    },
+    {
+     "title": "Shorts open with a short",
+     "body": "A title joins the shorts feed with a clip that really is a short, so the feed keeps moving and nothing disappears from it."
+    },
+    {
+     "title": "The Mini TV rows stay together",
+     "body": "The language rows keep their place as one block on the ShortTV tab."
+    }
+   ]
+  },
+  {
+   "versionCode": 37,
+   "versionName": "1.2.15",
+   "date": "2026-09-21",
+   "highlights": [
+    {
+     "title": "The band above the picture now belongs to the picture",
+     "body": "The strip behind the clock, the search box and the tabs is drawn from the page that is actually showing, so it changes with the artwork instead of keeping the first one."
+    },
+    {
+     "title": "Only the shorts rows you asked for",
+     "body": "On the front page a row of shorts is drawn only for the shelves you named. Everything else shows the ordinary row of posters it always was."
+    },
+    {
+     "title": "Back stays with the player",
+     "body": "Coming back from a full-screen video keeps the film in the floating window. The page underneath no longer starts a different video of its own, so Back stops putting the previous title back on screen."
+    },
+    {
+     "title": "The ShortTV tab is back",
+     "body": "ShortTV carries its own tab again with every category it offers, including the Mini TV rows for Hindi, Bengali, Tamil, Telugu, Malayalam and Kannada."
+    }
+   ]
+  },
+  {
+   "versionCode": 36,
+   "versionName": "1.2.14",
+   "date": "2026-09-21",
+   "highlights": [
+    {
+     "title": "The bar sits on the picture itself",
+     "body": "The strip behind the clock, the search box and the category tabs now carries the top of the page's own artwork, softened, exactly as the picture reaches it."
+    },
+    {
+     "title": "And nothing covers the picture",
+     "body": "The sharp artwork still begins below the bar and the tabs, so nothing is drawn across it."
+    },
+    {
+     "title": "Language pages move by hand",
+     "body": "The big picture on the Hindi, Bengali, Tamil and Telugu pages can now be swiped, and small dots underneath show how many there are."
+    },
+    {
+     "title": "Back returns to the floating player",
+     "body": "Leaving a full-screen video with Back now shrinks it into the floating window instead of closing it, on every player page."
+    },
+    {
+     "title": "Only the shorts you asked for",
+     "body": "The home page keeps just the short shelves you named, in the order they appear today; everything else stays exactly where it was."
+    },
+    {
+     "title": "A ShortTV tab of its own",
+     "body": "ShortTV now has its own tab carrying every category it offers, including the Mini TV rows for Hindi, Bengali, Tamil, Telugu, Malayalam and Kannada."
+    }
+   ]
+  },
+  {
+   "versionCode": 35,
+   "versionName": "1.2.13",
+   "date": "2026-09-20",
+   "highlights": [
+    {
+     "title": "The whole picture, edge to edge",
+     "body": "The big picture at the top of the home page now shows the full frame, all the way to both sides, exactly as it was made."
+    },
+    {
+     "title": "Nothing hidden behind the bar",
+     "body": "The artwork begins below the search box and the category tabs, so the clock, the search box and the tabs stay easy to read and nothing is drawn across the picture."
+    },
+    {
+     "title": "Posters show in full",
+     "body": "Posters on the home page now fit their card, so no title loses the sides of its artwork."
+    },
+    {
+     "title": "Shorts right on the home page",
+     "body": "Tap a shorts shelf and Clips opens on it straight away; Back puts you back exactly where you were on the home page."
+    },
+    {
+     "title": "Back returns to the floating player",
+     "body": "After watching several films in a row, Back tucks the one you were watching into the small window instead of stepping back through the ones before it."
+    }
+   ]
+  },
+  {
+   "versionCode": 34,
+   "versionName": "1.2.12",
+   "date": "2026-09-20",
+   "highlights": [
+    {
+     "title": "Shorts play again",
+     "body": "Every clip opens and plays, and the next one follows on its own."
+    },
+    {
+     "title": "The front page moves by itself",
+     "body": "The big picture at the top of the home page changes on its own, so what is newest is always in front of you."
+    },
+    {
+     "title": "The picture runs to the very top",
+     "body": "Artwork now rises behind the clock and melts into the page below it, with the title and its small poster sitting underneath."
+    },
+    {
+     "title": "Nothing hides the picture",
+     "body": "Full screen stays full screen in Shorts, including while you change quality, speed or captions."
+    }
+   ]
+  },
+  {
+   "versionCode": 33,
+   "versionName": "1.2.11",
+   "date": "2026-09-20",
+   "highlights": [
+    {
+     "title": "Shorts that play again",
+     "body": "The clips feed asks for its six titles more patiently and, if a batch still comes back empty, asks again one at a time the way the build that worked did — so a slow line can no longer turn into an empty feed. A clip that will not start still steps down a quality rather than waiting for ever."
+    },
+    {
+     "title": "One floating window, twice",
+     "body": "The window inside the app and the one outside it are now drawn from a single definition, so they carry the same three actions in the same places instead of looking like two different things."
+    },
+    {
+     "title": "The page behind the picture",
+     "body": "The small screen and the player now sit on the same near-black their own app uses, so the picture and the page around it belong together."
+    },
+    {
+     "title": "The poster at the top, as it should be",
+     "body": "The name sits under the poster instead of across it, the artwork clears the status bar, and the billboard can be swiped by hand — a finger also stops the rotation so it cannot pull the page back mid-swipe."
+    }
+   ]
+  },
+  {
+   "versionCode": 32,
+   "versionName": "1.2.10",
+   "date": "2026-09-18",
+   "highlights": [
+    {
+     "title": "Shorts that start, or say why",
+     "body": "The feed now asks for six titles at a time instead of one, a file that will not begin steps down a quality or is passed over, and a feed with nothing in it says so and offers Try again."
+    },
+    {
+     "title": "One player for both screens",
+     "body": "Going full screen and coming back does not load anything again: the film you are watching simply moves to the other screen."
+    },
+    {
+     "title": "The small picture does everything the big one does",
+     "body": "Swipe across it to move through the film from exactly where you are, hold it down for double speed, and the volume and brightness read-outs sit in the middle of the picture."
+    },
+    {
+     "title": "A window you can move, and a widget with real posters",
+     "body": "The floating window inside the app drags anywhere on the screen, and the home-screen widget carries four of your own posters with a search line above them."
+    }
+   ]
+  },
+  {
+   "versionCode": 31,
+   "versionName": "1.2.9",
+   "date": "2026-09-18",
+   "highlights": [
+    {
+     "title": "Download subtitles",
+     "body": "Search subtitles by name, switch one on straight away, and save it to your phone as a .srt file you can keep."
+    },
+    {
+     "title": "MovieHouse on your home screen",
+     "body": "A widget of our own: search and shorts one tap away, offered the first time you open the app."
+    },
+    {
+     "title": "Shorts in a floating window",
+     "body": "A short keeps playing over your home screen in a tall window its own shape, with the same controls films have."
+    },
+    {
+     "title": "Nothing cut off, nothing stretched",
+     "body": "Films now play exactly as the file is by default; trimming the black edges is a choice in Settings."
+    }
+   ]
+  },
+  {
+   "versionCode": 30,
+   "versionName": "1.2.8",
+   "date": "2026-09-18",
+   "highlights": [
+    {
+     "title": "Films at their real shape",
+     "body": "Every picture keeps its own proportions on the watch page and in the floating window, with clean black edges instead of a stretched frame."
+    },
+    {
+     "title": "One floating window, everywhere",
+     "body": "The same window with the same controls inside the app and over your home screen, from the small player and from full screen alike."
+    },
+    {
+     "title": "The language the title promises",
+     "body": "A title marked [Hindi] opens its Hindi copy, and the audio menu names what you are really hearing."
+    },
+    {
+     "title": "Full quality on a fast line",
+     "body": "Films are no longer held to your screen size: the best picture the server has plays when your connection can carry it."
+    },
+    {
+     "title": "Clips are short again",
+     "body": "The swipe feed keeps to real shorts in your own language, with a slim progress line like the rest of the app."
+    },
+    {
+     "title": "A calmer home page",
+     "body": "Shorts shelves live in Clips, and the page itself is a softer dark grey."
+    }
+   ]
+  },
+  {
+   "versionCode": 29,
+   "versionName": "1.2.7",
+   "date": "2026-09-18",
+   "highlights": [
+    {
+     "title": "Every episode on offer really plays",
+     "body": "The episode list follows the audio language you pick, so what you tap is what the library actually has."
+    },
+    {
+     "title": "A clear word when something is not there yet",
+     "body": "If a season or an episode has not arrived, the page says so instead of blaming your connection."
+    }
+   ]
+  },
+  {
+   "versionCode": 28,
+   "versionName": "1.2.6",
+   "date": "2026-09-18",
+   "highlights": [
+    {
+     "title": "A watch page that starts watching",
+     "body": "Tap a poster and the film begins right there, with the name, the facts and the episodes under it — no page in between."
+    },
+    {
+     "title": "The picture stays where it belongs",
+     "body": "Scroll the page and the film stays pinned at the top, still playing, with no reload."
+    },
+    {
+     "title": "Small screen, full control",
+     "body": "Brightness, volume, scrubbing and double-tap skip all work on the small picture, exactly as they do on the full screen."
+    },
+    {
+     "title": "One film, one position",
+     "body": "Move between the small picture, the full screen and the floating window and the film carries on from the same second, every time."
+    },
+    {
+     "title": "Back keeps playing",
+     "body": "Leaving the page shrinks the film into a floating window inside the app, and pressing Home floats it over your phone."
+    },
+    {
+     "title": "Language and season, their own way",
+     "body": "Pick an audio language or a season from a sheet that rises from the bottom, and the film continues in the new language from the same second."
+    },
+    {
+     "title": "Hundreds more episodes play",
+     "body": "Titles and episodes that used to stop with an error now open, including short serials and the ones that only had a second copy."
+    },
+    {
+     "title": "Shorts in your own language",
+     "body": "Clips opens with shorts from your own country first, then the languages nearest you, then the rest of the world."
+    },
+    {
+     "title": "Best quality from the first second",
+     "body": "Films open at the best picture your connection carries, and the quality button shows the size you are actually watching."
+    },
+    {
+     "title": "Audio that tells the truth",
+     "body": "The language shown is the language playing, a title in your language opens in it, and only tracks that really exist are offered."
+    },
+    {
+     "title": "Downloads you can recognise",
+     "body": "Every download keeps its own artwork, so your list looks right even with no connection."
+    }
+   ]
+  },
+  {
+   "versionCode": 27,
+   "versionName": "1.2.5",
+   "date": "2026-09-18",
+   "highlights": [
+    {
+     "title": "A watch page that starts watching",
+     "body": "Tap a poster and the film begins right there, with the name, the facts and the episodes under it — no page in between."
+    },
+    {
+     "title": "Hundreds more episodes play",
+     "body": "Titles and episodes that used to stop with an error now open, including short serials and the ones that only had a second copy."
+    },
+    {
+     "title": "Best quality from the first second",
+     "body": "Films open at the best picture your connection carries, and the quality button shows the size you are actually watching."
+    },
+    {
+     "title": "Audio that tells the truth",
+     "body": "The language shown is the language playing, a title in your language opens in it, and only tracks that really exist are offered."
+    },
+    {
+     "title": "Shorts in your own language",
+     "body": "Clips now opens with shorts from your country first, then the rest of the world."
+    },
+    {
+     "title": "Downloads you can recognise",
+     "body": "Every download keeps its own artwork, so your list looks right even with no connection."
+    },
+    {
+     "title": "Episodes in numbered chips",
+     "body": "Pick a season and tap an episode number — the whole season fits on one line."
+    },
+    {
+     "title": "A floating window",
+     "body": "Shrink a film into a small window and keep watching while you use the phone."
+    },
+    {
+     "title": "Home stays where you left it",
+     "body": "Category strips, poster rows and sorting all hold their place, including after you come back from a title."
+    }
+   ]
+  },
+  {
    "versionCode": 26,
    "versionName": "1.2.4",
    "date": "2026-09-16",
