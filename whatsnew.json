@@ -11,6 +11,37 @@
   },
   "releases": [
     {
+      "versionCode": 63,
+      "versionName": "1.2.41",
+      "date": "2026-10-05",
+      "highlights": [
+        {
+          "title": "Sign in on TV from your phone",
+          "body": "In My Space, tap Sign in on TV, point the camera at the code on your TV and tap once. Your TV signs in as you, with nothing to type on the remote."
+        },
+        {
+          "title": "Any camera works",
+          "body": "Scan the TV's code with your phone's own camera or any scanner and MovieHouse opens on the right page. Without the app, the same code opens a web page to sign in."
+        },
+        {
+          "title": "Type the code instead",
+          "body": "No camera at hand? Enter the eight characters shown on the TV on the same page."
+        },
+        {
+          "title": "Room for your TV",
+          "body": "If your account is already on its full number of devices, the page lists them so you can free one and the TV signs in right after."
+        },
+        {
+          "title": "The TV code is yours alone",
+          "body": "A TV's sign-in code works only while its sign-in page is open, and only one code is live per TV. Leave the page and it is cancelled at once."
+        },
+        {
+          "title": "MovieHouse on TV, one tap away",
+          "body": "The TV card in Every screen now has Sign in on TV right at the top, next to the download address and install steps."
+        }
+      ]
+    },
+    {
       "versionCode": 62,
       "versionName": "1.2.40",
       "date": "2026-10-04",
