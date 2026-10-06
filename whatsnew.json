@@ -11,6 +11,37 @@
   },
   "releases": [
     {
+      "versionCode": 64,
+      "versionName": "1.2.42",
+      "date": "2026-10-06",
+      "highlights": [
+        {
+          "title": "Sign in without a hitch",
+          "body": "Sign-in and sign-up stay quick and dependable at every hour of the day, on every phone and TV on your account."
+        },
+        {
+          "title": "Watch history syncs only what changed",
+          "body": "Your history now sends just the titles you watched since the last time, so opening the app and leaving a film is lighter on data and faster."
+        },
+        {
+          "title": "Your place in a film follows you",
+          "body": "Where you stopped on this phone reaches your other phones and your TV the next time they open, down to the second."
+        },
+        {
+          "title": "The same history on your TV",
+          "body": "MovieHouse for TV keeps your history the same way, so Continue watching on the TV matches your phone."
+        },
+        {
+          "title": "Plain words when MovieHouse is busy",
+          "body": "On the rare occasion the service is busy, the sign-in screen tells you so and asks you to try again in a few minutes."
+        },
+        {
+          "title": "See the update download",
+          "body": "The update screen shows the real percentage while a new version downloads."
+        }
+      ]
+    },
+    {
       "versionCode": 63,
       "versionName": "1.2.41",
       "date": "2026-10-05",
