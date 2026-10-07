@@ -11,6 +11,37 @@
   },
   "releases": [
     {
+      "versionCode": 65,
+      "versionName": "1.2.43",
+      "date": "2026-10-07",
+      "highlights": [
+        {
+          "title": "Lighter on data, quicker to open",
+          "body": "Pages you have just seen come back from the phone instead of being fetched again, so the app opens faster and uses less data."
+        },
+        {
+          "title": "Type the TV code and see it",
+          "body": "On Sign in on TV, the code box and the Continue button now stay above the keyboard while you type."
+        },
+        {
+          "title": "MovieHouse in your notifications",
+          "body": "The recommendations and new-episode notifications now carry the MovieHouse mark, the way the app icon does."
+        },
+        {
+          "title": "Home keeps its shape",
+          "body": "The home page layout is remembered between opens, so it appears at once every time."
+        },
+        {
+          "title": "TV: e-mail sign-in always in reach",
+          "body": "On MovieHouse for TV the Use e-mail and password button is on the screen on every television, whatever its size."
+        },
+        {
+          "title": "TV: the sign-in page fits every screen",
+          "body": "The QR code, the short code and the steps now fit the picture on smaller and larger TVs alike."
+        }
+      ]
+    },
+    {
       "versionCode": 64,
       "versionName": "1.2.42",
       "date": "2026-10-06",
@@ -1680,3 +1711,4 @@
     }
   ]
 }
+
